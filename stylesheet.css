@@ -1,0 +1,16 @@
+li {
+    padding: 10px;
+    background-color: aqua;
+    align-content: center;
+    text-align: center;
+    
+}
+body {
+    background-color:beige;
+}
+h1 {
+    text-align: center;
+}
+ul{
+    display: inline-block;
+}
